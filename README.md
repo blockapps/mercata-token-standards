@@ -8,11 +8,11 @@ The STRATO Mercata standards introduce a UTXO-based token model that advances tr
 
 ## Features
 
-- **Assets**: Manage your blockchain assets with unprecedented granularity.
+- **Assets**: Manages real world assets with granularity.
 - **Enums**: Enumerated types that define a set of named constants for better code clarity.
-- **Orders**: Create and manage orders with ease, thanks to our intuitive structuring.
+- **Orders**: Create and manage sales with ease, thanks to our intuitive structuring.
 - **Payments**: Secure and streamlined payment structures for efficient transaction processing.
-- **Sales**: Revolutionary Sale contract mechanism that redefines liquidity for RWAs.
+- **Sales**: Sale contract mechanism that facilitates secure trading of RWAs and ownership transfer of assets.
 - **Utils**: A collection of utility functions and libraries to assist in smart contract development.
 
 ## Groundbreaking Benefits
