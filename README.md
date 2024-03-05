@@ -27,6 +27,11 @@ The STRATO Mercata standards introduce a UTXO-based token model that advances tr
 To get started with STRATO Mercata Token Standards, clone this repo and dive into our comprehensive documentation available in the `STRATO Mercata Token Standards.pdf`. We have also uploaded presentation slides and a demo video:`Mercata_Demo.mp4`(Skip to 16:18 for contracts).
 
 ## Presentation
+
+<br>
+<img src="Presentation/STRATO Mercata-01.png">
+<br>
+
 ![Slide 1](Presentation/STRATO Mercata-01.png)
 ![Slide 2](Presentation/STRATO Mercata-02.png)
 ![Slide 3](Presentation/STRATO Mercata-03.png)
