@@ -31,21 +31,42 @@ To get started with STRATO Mercata Token Standards, clone this repo and dive int
 <br>
 <img src="Presentation/STRATO Mercata-01.png">
 <br>
-
-![Slide 1](Presentation/STRATO Mercata-01.png)
-![Slide 2](Presentation/STRATO Mercata-02.png)
-![Slide 3](Presentation/STRATO Mercata-03.png)
-![Slide 4](Presentation/STRATO Mercata-04.png)
-![Slide 5](Presentation/STRATO Mercata-05.png)
-![Slide 6](Presentation/STRATO Mercata-06.png)
-![Slide 7](Presentation/STRATO Mercata-07.png)
-![Slide 8](Presentation/STRATO Mercata-08.png)
-![Slide 9](Presentation/STRATO Mercata-09.png)
-![Slide 10](Presentation/STRATO Mercata-10.png)
-![Slide 11](Presentation/STRATO Mercata-11.png)
-![Slide 12](Presentation/STRATO Mercata-12.png)
-![Slide 13](Presentation/STRATO Mercata-13.png)
-
+<br>
+<img src="Presentation/STRATO Mercata-02.png">
+<br>
+<br>
+<img src="Presentation/STRATO Mercata-03.png">
+<br>
+<br>
+<img src="Presentation/STRATO Mercata-04.png">
+<br>
+<br>
+<img src="Presentation/STRATO Mercata-05.png">
+<br>
+<br>
+<img src="Presentation/STRATO Mercata-06.png">
+<br>
+<br>
+<img src="Presentation/STRATO Mercata-07.png">
+<br>
+<br>
+<img src="Presentation/STRATO Mercata-08.png">
+<br>
+<br>
+<img src="Presentation/STRATO Mercata-09.png">
+<br>
+<br>
+<img src="Presentation/STRATO Mercata-10.png">
+<br>
+<br>
+<img src="Presentation/STRATO Mercata-11.png">
+<br>
+<br>
+<img src="Presentation/STRATO Mercata-12.png">
+<br>
+<br>
+<img src="Presentation/STRATO Mercata-13.png">
+<br>
 
 
 ## Contribution
