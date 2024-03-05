@@ -32,9 +32,6 @@ To get started with STRATO Mercata Token Standards, clone this repo and dive int
 <img src="Presentation/STRATO Mercata-01.png">
 <br>
 <br>
-<img src="Presentation/STRATO Mercata-02.png">
-<br>
-<br>
 <img src="Presentation/STRATO Mercata-03.png">
 <br>
 <br>
